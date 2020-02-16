@@ -1,0 +1,89 @@
+the Wardens
+
+-------------------------------------------------
+
+the Poacher:
+Duke Jeremiah Theophilus Hartfordshire the Third was stripped of his title and driven to poaching. But of course he would poach no mere animals! No, he would poach his revenge for those who had deposed him whether or not that was the proper definition of poaching! he took up his bow and cutlass and charged his way straight to capture and imprisonment in the Champion Clinic where he promptly took a liking to the jungle of trusses and concrete; it reminded him of his home in Manhatten. He struck a deal with the Doc: free reign over a section of the facility in return for guarding his portion of the keycodes.
+
+While you are in his domain the Duke is hunting you. He will set beasts on you that will chase you into his traps. He will charge through zones on his robotic horse upsetting prisoner hideaways and flush toxic gas down your ventilation hideaways to smoke you out. His domain is full of... "wildlife". Consisting mainly of inmates in their exotic animal themed jumpsuits and doctors tending to the wounded. And of course, there is the everpresent threat of his Riding Party; a group of thugs in souped up mechanical horses similar to his own that erratically patrol the various zones. If you see this group come through, you had best run from the trampling of their hooves if you plan on making it to the Duke's estate home and challenging him to combat over morning brunch.
+
+In battle the Duke is aggressive and cunning. He will press the attack with no remorse and back off just as quickly before you can retaliate. He wields a possibly magical sword that shoots waves of light from his swing, giving him deceptive range, and he will bog you down with arrows and nets from afar. When losing, the Duke will flee through his realm, tossing everything he can at you behind him.
+
+TL;DR
+Tactics:
+traps, ambushes, patrols, herd the player into dead ends and corners
+Zone:
+mostly normal but just with potted plants and trees and vines placed everywhere to make it look like a jungle
+Minions:
+his Riding Party - the tamer with her dogs - the marksman with his trackers - the lancer with his footmen - the elder alone.
+rhino dressed inmates that are bulky and charge the player
+fox dressed inmates that slink and surround the player for ambushes
+snake dressed inmates that attempt to grapple the player for other inmates to beat
+bird dressed inmates with mechanical flight rigs that harasss and dive the player
+tiger dressed inmates that will stalk the player through multiple levels until they catch him
+staff watering the plants
+
+-------------------------------------------------
+
+the Necromancer:
+despite the connotations of her practice, Sam Ashton puts her powers to the goal of creating life. She was born a countryside lass with unique powers to control and grow crops to incredible heights, but was ostracized and joined up with a traveling circus. Therein she was titled the necromancer and performed "raising the dead" until they reached the city where she was kidnapped under cover of night and brought to the facility, where she was given her own lab in return for safeguarding the keycodes.
+
+There's no maintenance in the necromancer's zone. Everything that can potentially come to life does so - right down to the mold in the sinks - So things are kind of falling apart and there are holes everywhere. Expect to be beset upon all sides by writhing masses of unmentionable and half built creatures stumbling around while the ceiling threatens to collapse around you in places and an eerie wailing is coming from everywhere and nowhere at once. Trees grow sickly from the floor and the literal corpses of inmates - at least those that are not mutilated whilst still living and breathing - rise up from the floor to attack.
+
+When you finally reach the Necromancer her pets will attack, defeating them enrages her and causes her to stop singing and get serious (the wailing also stops conveniently). She will release a menagerie of mangled mongrels at your mug to aid in her attack and bring you into her collection and the very floor may shift and crumble around you as you fight.
+
+TL;DR
+Tactics:
+mostly just brute force and negligence creating deadly pitfalls.
+Zone:
+full of rot and mildew the staff long have abandoned attempting to maintain the area and just reinforcing around the outside of her zone of influence.
+Minions:
+giant freakin bugs and mosquitos
+reanimated dead corpses
+ghoulish living trees
+sludge stuff with faces in it?
+her zoo of animals
+living plant infested inmates
+
+-------------------------------------------------
+
+the Engineer:
+Dalton Moore isn't actually a superhero. He's a regular old engineer and the Doc's little bro. Well, I say regular but he may or may not run the entire maintenance staff that is comprised and staffed entirely by his automaton creations and walk around on mechanical stilts. He's also the one that gifted his friend the Poacher the mechanical horses and finaegled a few secrets out of the necromancer and the diva to help create his bio enhanced inmate-animals and magic light sword. Being the brother of the Doc that runs the place has a few advantages, such as being one of the few people freely able to leave the facility without the codes (though he prefers the solitude) and knows the secret of their existence.
+
+the realm of the Engineer is the longest and most extensive pipes system, enterable and exitable from almost anywhere it serves as a kind of fast travel system from the get-go. The player meets up with him after escaping into the vents and helping him out and he in turn tells the player about the codes and promises to share his and get him into the Doc's room for the final code if he can manage to get the other 5 codes from the 5 inmate Wardens. He hands the player the keys to the tunnels to travel through (which will happen in real time not a fade in fade out menu) though since the layout is always shifting and some areas are far harder to maintain than others (cough cough necromancer) it's not always easy to travel the tubes, and malfunctioning droids are always a hazard.
+
+Towards the end he reveals the Doc has ordered to stop helping him and the tunnels become much more hostile and the player must now fight the Engineer in order to gain his codes. In battle the Engineer is reluctant to fight, it's suspiciously easy (though not inconsiderably) to defeat him and pass to the final boss. Your friend the Engineer wishes you luck for one reason or another.
+
+TL;DR
+Tactics:
+Shifting zones and malfunctioning droids and strong winds at intervals and environmental hazards based on what other Warden's zone is leaking into his
+Zone:
+long corridors with repair droids carrying parts around
+Minions:
+flying robots in groups with various attached heads they swing around
+wall bound vacuum/sludge vacuum droids
+strong debris clearing/throwing robots for the things the mini robots can't take
+
+-------------------------------------------------
+
+the Stuntman:
+Daryl "daring" Kelsey the Stuntman has always been a fighter. Well... with a last name like Kelsey who can blame him. He's ferociously proud of it though, says it means fierce or something who knows... Hey make sure to make fun of his height for me alright? (it was at this point I decided to explain the characters in blurbs from the engineer)
+
+He's a bit of an oddball, this one. He immediately staked out the most open section of the facility and set up races and tests of strength all over. The inmates are mostly peaceful but don't get them riled up by beating on them randomly or (heaven forbid) cheat to win the competitions. Just kind of blend in and work your way up with wins in order to lay challenge to the big boss, Daryl himself. I believe in you Kid.
+
+-------------------------------------------------
+
+the Diva:
+You're entering the domain of Cissy Beauregard now. (nevermind blurbs are stupid) 
+
+-------------------------------------------------
+
+the Crime Boss:
+Orville Clementine
+
+-------------------------------------------------
+
+the Doc Himself:
+Dr. Geiger (Fiddler)
+
+-------------------------------------------------
